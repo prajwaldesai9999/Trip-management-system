@@ -7,9 +7,7 @@
 <li>An developement of RESTful API for an application. This API performs all the fundamental CRUD operations of any with user validation at every step.
 <br>
 
-<!-- ============================================  AUTHOR ======================================================  -->
 
-Author - [@Sumit Gangwar](https://www.linkedin.com/in/sumit-gangwar)
  
 <!-- ============================================  FEATURES ======================================================  -->
 
@@ -26,17 +24,7 @@ Author - [@Sumit Gangwar](https://www.linkedin.com/in/sumit-gangwar)
     * Viewing list of available buses, packages, hotels and booking a trip
     * Only logged in user can access his trip history, profile updation and other features.
 
-<!-- ============================================  CONTRIBUTORS ======================================================  -->
 
-  
-## Contributors
-
-* [@Raushan Kumar](https://github.com/raus376)
-* [@Lalit Kumar](https://github.com/lalitk1997)
-* [@Sumit Gangwar](https://github.com/Sumit-Gangwar)
-* [@Kunal Ladhani](https://github.com/Kunal-Ladhani)
-* [@Sandeep Sharma](https://github.com/Sbsharma0897)
-  
 <!-- ============================================  TECH STACK ======================================================  -->
 
 ## Tech Stack
